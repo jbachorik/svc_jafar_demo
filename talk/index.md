@@ -582,7 +582,10 @@ What would you like to see?
 ## Jafar Project
 https://github.com/btrace/jafar
 
-## This presentation
+## This demo project
 https://github.com/jbachorik/svc_jafar_demo
+
+## This presentation
+https://github.com/jbachorik/svc_jafar_demo/blob/master/talk/index.html
 
 ---
