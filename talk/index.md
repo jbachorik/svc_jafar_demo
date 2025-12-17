@@ -510,7 +510,7 @@ parser.handle((event, ctl) -> {
 **Installation:**
 ```gradle
 dependencies {
-    implementation 'io.btrace:jafar-parser:0.3.0-SNAPSHOT'
+    implementation 'io.btrace:jafar-parser:0.3.11'
 }
 ```
 
