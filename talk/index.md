@@ -575,6 +575,14 @@ What would you like to see?
 
 # Questions?
 
-**Thank you!**
+---
 
-GitHub: github.com/btrace/jafar
+# Links
+
+## Jafar Project
+https://github.com/btrace/jafar
+
+## This presentation
+https://github.com/jbachorik/svc_jafar_demo
+
+---
