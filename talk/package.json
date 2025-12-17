@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "slides": "marp index.md -w --html --allow-local-files"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}

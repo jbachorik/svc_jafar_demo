@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./Demo.java ../jafar/lib/*.jfr)",
+      "Bash(./Demo.java:*)",
+      "Bash(chmod:*)",
+      "Bash(./HottestMethods.java ~/demo1.jfr)",
+      "Bash(./HottestEndpoints.java ~/demo1.jfr)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
